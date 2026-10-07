@@ -1,38 +1,8 @@
 ---
-title: Build your About page
-date: '2026-08-19T10:00:00+08:00'
-slug: about
-description: Build your About page — a working example for the Astro Solitude theme.
-categories:
-- Creative notes
-tags:
-- Solitude
-series:
-- Theme essentials
-cover: /img/demo/cover-pagination-v2.webp
+title: 我的第一篇文章
+date: 2026-10-07
+description: 这是我在自己博客上的第一篇文章！
+tags: [生活]
 ---
 
-# Build your About page
-
-Welcome to **Astro Solitude**. This sample post is ready to replace with your own story.
-
-## Content and expression
-
-The theme separates content, configuration, and page components. Keep posts in `src/content/posts` and site settings in `src/site.config.ts`.
-
-> Let your content take center stage.
-
-## Start creating
-
-- Write your story in Markdown.
-- Use MDX for callouts, galleries, and media.
-- Enjoy the same content in light and dark mode.
-
-```typescript
-const message: string = "Hello, Solitude";
-console.log(message);
-```
-
-### Next steps
-
-Explore the [component showcase](/p/components/) or [all posts](/archives/).
+大家好，今天我终于搭好了自己的博客！

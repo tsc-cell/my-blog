@@ -2,12 +2,12 @@ import { defineSolitudeConfig } from './lib/config';
 
 export default defineSolitudeConfig({
   site: 'https://example.org',
-  title: 'Solitude',
+  title: 'Solitine',
   description:
     'Write and create with Astro. A thoughtful home for your stories.',
   locale: 'en',
   timeZone: 'UTC',
-  author: { name: 'Solitude' },
+  author: { name: '404Pet' },
   menus: [
     {
       name: 'Library',
